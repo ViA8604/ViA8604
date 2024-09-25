@@ -1,6 +1,6 @@
 - 👋 Hello there! I'm Olivia Ortíz Arboláez :D
 - 🌱 Currently studying Computer Science at Havana's University, putting all my effort to that!
-- 👥👾 I'm passionate about coding and collaboration, you're free to check my repos.
+- 👥👾 I'm passionate about coding and collaboration, feel free to check my repos.
 - 📫 How to reach me, well just chat with me on Threads or send me an email!
 - https://www.threads.net/@vialaez
 - rolikvia8@gmail.com
